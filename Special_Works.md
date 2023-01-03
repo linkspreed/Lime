@@ -1,4 +1,7 @@
 ### 03.01.2023 (announcement Lime)
+- The servers are now ready for the launch of version 1.3.4 for **Lime**.
+
+### 03.01.2023 (announcement Lime)
 - The code is now ready for the launch of version 1.3.4 for **Lime**.
 
 ### 03.01.2023 (announcement Lime)
