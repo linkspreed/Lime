@@ -1,4 +1,4 @@
-# <img align="left" alt="Lime" width="100px" src="https://lime.gq/themes/default/statics/img/logo.png" draggable="false" /> Lime ([Click to try 🚀](https://share.ga/))
+# <img align="left" alt="Lime" width="100px" src="https://lime.gq/themes/default/statics/img/logo.png" draggable="false" /> Lime ([Click to try 🚀](https://lime.gq/))
 
 Share 🔗everything that moves and interests you📱
 
