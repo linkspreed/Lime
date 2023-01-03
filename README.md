@@ -59,8 +59,5 @@ Share is developed and provided by ([Linkspreed 🚀](https://www.linkspreed.com
 ### Profile
 <img align="center" alt="Lime" width="3000px" src="https://github.com/linkspreed/Lime/blob/main/screenshots/4.png" draggable="false" />
 
-### Write something ...
-<img align="center" alt="Lime" width="3000px" src="https://github.com/linkspreed/Lime/blob/main/screenshots/5.png" draggable="false" />
-
 ### Settings
-<img align="center" alt="Lime" width="3000px" src="https://github.com/linkspreed/Lime/blob/main/screenshots/6.png" draggable="false" />
+<img align="center" alt="Lime" width="3000px" src="https://github.com/linkspreed/Lime/blob/main/screenshots/5.png" draggable="false" />
