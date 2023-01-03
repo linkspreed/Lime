@@ -2,7 +2,7 @@
 
 Lime 🍋 - A wonderful alternative to Twitter to share short text 💬 messages across the world! 🌎
 
-## **[Changelog ❤🍋](https://github.com/linkspreed/Lime/blob/main/changelog.md)** **Check out the full Share changelog**
+## **[Changelog 🍋](https://github.com/linkspreed/Lime/blob/main/changelog.md)** **Check out the full Share changelog**
 ## **[Special Works 👨‍💻](https://github.com/linkspreed/Lime/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Share besides development**
 
 
@@ -24,7 +24,7 @@ Lime 🍋 - A wonderful alternative to Twitter to share short text 💬 messages
 
 ## More
  
-**Share** is the best platform to just start writing.
+**Lime** is the best platform to just start writing.
 What moves you, what interests you?
 No matter what you do, no matter where you are and no matter who you are - everyone is welcome on Share to publish their opinion on topics on the Internet.
 It has never been so easy to be free on the internet and reach other people with your messages.
@@ -39,28 +39,28 @@ Share is developed and provided by ([Linkspreed 🚀](https://www.linkspreed.com
 
  ```txt
     We will soon be presenting
-    Share's API here on GitHub
+    Lime's API here on GitHub
     as well :)
 ```
- **Share** contains no advertising and can be used freely and free of charge by anyone.
+ **Lime** contains no advertising and can be used freely and free of charge by anyone.
 
 ## 📷 UI
 
 
-### Welcome to share
-<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/1.PNG" draggable="false" />
+### Welcome to Lime
+<img align="center" alt="Lime" width="3000px" src="https://github.com/linkspreed/Lime/blob/main/screenshots/1.png" draggable="false" />
 
 ### Homepage
-<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/2.PNG" draggable="false" />
+<img align="center" alt="Lime" width="3000px" src="https://github.com/linkspreed/Lime/blob/main/screenshots/2.png" draggable="false" />
 
 ### Explore
-<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/3.PNG" draggable="false" />
+<img align="center" alt="Lime" width="3000px" src="https://github.com/linkspreed/Lime/blob/main/screenshots/3.png" draggable="false" />
 
 ### Profile
-<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/4.PNG" draggable="false" />
+<img align="center" alt="Lime" width="3000px" src="https://github.com/linkspreed/Lime/blob/main/screenshots/4.png" draggable="false" />
 
 ### Write something ...
-<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Lime" width="3000px" src="https://github.com/linkspreed/Lime/blob/main/screenshots/5.png" draggable="false" />
 
 ### Settings
-<img align="center" alt="share" width="3000px" src="https://github.com/linkspreed/share/blob/main/screenshots/5.PNG" draggable="false" />
+<img align="center" alt="Lime" width="3000px" src="https://github.com/linkspreed/Lime/blob/main/screenshots/6.png" draggable="false" />
