@@ -1,11 +1,9 @@
 # <img align="left" alt="Lime" width="100px" src="https://lime.gq/themes/default/statics/img/logo.png" draggable="false" /> Lime ([Click to try 🚀](https://lime.gq/))
 
-Share 🔗everything that moves and interests you📱
+Lime 🍋 - A wonderful alternative to Twitter to share short text 💬 messages across the world! 🌎
 
-
-
-## **[Changelog ❤️](https://github.com/linkspreed/share/blob/main/changelog.md)** **Check out the full Share changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/share/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Share besides development**
+## **[Changelog ❤🍋](https://github.com/linkspreed/Lime/blob/main/changelog.md)** **Check out the full Share changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Lime/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Share besides development**
 
 
 <div align="center">
