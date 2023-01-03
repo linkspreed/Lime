@@ -1,3 +1,33 @@
+V1.3.4 (03 January 2023)
+ - [Added] the ability to replenish the wallet by bank transfer
+ - [Added] the ability to cancel an affiliate withdrawal request
+ - [Added] the ability to transfer money earned through the affiliate program to the user's main wallet
+ - [Added] the ability to disable the API from the admin panel
+ - [Added] the ability to transfer money from a user's wallet to another user
+ - [Added] ability to disable guest page from admin
+ - [Added] placeholder for the video poster if there is no preview
+ - [Added] username restriction system from admin panel
+ - [Added] the ability to connect custom CSS and JS code to the site, for those who want to change something in the display
+ - [Improved] the login page for a new improved layout
+ - [Improved] the input tag of the message entry form to Textarea so that the user can type on a new line
+ - [Added] a new player for videos https://plyr.io/
+ - [Added] the ability to leave the last name field empty, that is, make it optional
+ - [Added] the ability to download videos. This feature can be disabled or enabled by the admin
+ - [Added] a new player to play audio files
+ - [Added] the ability to upload audio files
+ - [Added] the ability to upload document files
+ - [Added] Indian bank RazorPay
+ - [Added] the ability to login through other social networks like Vkontakte, Instagram, Discord, LinkedIn
+ - [Added] a premium system that allows you to disable ads (And many upcoming features that will be released soon) for a paid subscription
+ - [Added] ability for admin to delete user account from their profile page dropdown menu
+ - [Added] ability for admin to block user account from their profile page
+ - [Added] RTL languages support
+ - [Fixed] Bug on swift description with large text
+ - [Fixed] the bug with the translation of the names of months in dates
+ - [Fixed] bugs with sending mail that caused mail clients like Google to mark emails as spam
+ - [Fixed] problem with displaying links from social networks and websites
+ - [Fixed] Google Ads bug with dark theme
+
 # V1.3.3 (19 MAY 2022)
 - [Fixed] Bug on swift description with large text
 - [Fixed] Bug on modal windows scrollbar
