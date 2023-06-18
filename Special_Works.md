@@ -1,3 +1,6 @@
+### 18.06.2023 (announcement Lime)
+- 🚨 Exciting news alert! 🚨 Lime has been added to our subdomain system! 😍 Visit https://lime.gq and you'll be redirected to https://lime.linkspreed.com – but don't worry, you can still use the platform the same way you always have! 🙌 Any questions? 💭 #LimeLove #SubdomainSatisfaction
+
 ### 03.01.2023 (announcement Lime)
 - https://github.com/linkspreed/Lime/blob/main/changelog.md
 - The entire changelog is now available on Github.
